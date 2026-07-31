@@ -93,6 +93,3 @@ Every push to the main branch automatically deploys the latest build to AWS infr
 <img width="662" height="670" alt="image" src="https://github.com/user-attachments/assets/d0255c89-3d72-43d8-a4dc-bc4364e7aada" />
 <img width="607" height="852" alt="image" src="https://github.com/user-attachments/assets/aa742823-3716-41ef-8ae0-8c2d4ecfb1a1" />
 
-## 📄 License
-
-This project is developed for learning, cloud engineering practice, and portfolio purposes.
